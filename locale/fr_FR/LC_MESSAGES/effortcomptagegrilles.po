@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-08 08:42+0200\n"
+"PO-Revision-Date: 2017-06-08 08:43+0200\n"
+"Last-Translator: Dimitri DUBOIS <dimitri.dubois@umontpellier.fr>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesServ.py:76
+msgid "Grids"
+msgstr "Grilles"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesTexts.py:26
+msgid "Please count the number of 1 in each grid."
+msgstr "Compter le nombre de 1 dans chaque grille"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:57
+msgid "Tasks"
+msgstr "Tâche"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:66
+msgid "Do you want to quit before the end of the timer?"
+msgstr "Voulez-vous arrêter avant le temps imparti?"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:76
+msgid "You've found {} grids."
+msgstr "Vous avez trouvé {} grille(s)."
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:99
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:152
+msgid "Number of grids"
+msgstr "Nombre de grilles"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:109
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:153
+msgid "Grids' size"
+msgstr "Taille des grilles"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:119
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:154
+msgid "Number of grids per line"
+msgstr "Nombre de grilles par ligne"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:127
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:155
+msgid "Time to fill the form"
+msgstr "Temps pour compter les grilles"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:136
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:156
+msgid "Payoff"
+msgstr "Gain"
+
+#: /home/dimitri/Documents/travail/programmes/le2m-v2.1/le2m/parts/effortcomptagegrilles/effortcomptagegrillesGui.py:151
+msgid "Do you confirm?"
+msgstr "Vous confirmez?"
+
+#~ msgid "Grids' size: {}"
+#~ msgstr "Taille des grilles: {}"

@@ -39,6 +39,7 @@ class Serveur(object):
         screen_conf = DConfig(self._le2mserv.gestionnaire_graphique.screen)
         if screen_conf.exec_():
             to_display = [u"Nb grids: {}".format(pms.NB_GRILLES),
+                          u"Grids' size: {}".format(pms.SIZE_GRILLES),
                           u"Time: {}".format(str(pms.TIME_TO_FILL_GRILLES)),
                           u"Payoff: {}".format(pms.PAYOFF)]
             self._le2mserv.gestionnaire_graphique.infoserv(to_display)

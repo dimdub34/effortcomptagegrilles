@@ -150,7 +150,7 @@ class DConfig(QtGui.QDialog):
         payoff = self._spinbox_payoff.value()
         txt_confirm = trans_ECG(u"Do you confirm?") + u'\n' + \
                       trans_ECG(u"Number of grids") + u": {}\n".format(nb_grids) + \
-                      trans_ECG(u"Grids' size: {}".format(grid_size)) + \
+                      trans_ECG(u"Grids' size") + u": {}\n".format(grid_size) + \
                       trans_ECG(u"Number of grids per line") + u": {}\n".format(nb_grids_perline) + \
                       trans_ECG(u"Time to fill the form") + u": {}\n".format(
             str(time_to_fill)) + trans_ECG(u"Payoff") + u": {}".format(payoff)
